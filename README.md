@@ -1,3 +1,6 @@
+
+[![](https://github.com/joshGoldhaber/9_18_lab/workflows/tests/badge.svg)](https://github.com/joshGoldhaber/9_18_lab/actions?query=workflow%3Atests)
+
 # Open source practice
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
